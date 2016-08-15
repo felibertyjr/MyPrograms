@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1466446002 source:c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 4 classes, stacks and queue\project\project using classes\election.cpp
+	"election.h"
+
+1466390325 c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 4 classes, stacks and queue\project\project using classes\election.h
+	<iostream>
+	<iomanip>
+
+1466457498 source:c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 4 classes, stacks and queue\project\project using classes\main.cpp
+	"search.h"
+
+1466453979 c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 4 classes, stacks and queue\project\project using classes\search.h
+	"sorter.h"
+
+1466453809 c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 4 classes, stacks and queue\project\project using classes\sorter.h
+	"election.h"
+
+1466477200 source:c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 4 classes, stacks and queue\project\project using classes\search.cpp
+	"search.h"
+
+1466457437 source:c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 4 classes, stacks and queue\project\project using classes\sorter.cpp
+	"sorter.h"
+

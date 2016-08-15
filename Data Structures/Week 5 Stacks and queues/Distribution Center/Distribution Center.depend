@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1467348710 source:c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 5 stacks and queues\distribution center\clients.cpp
+	"clients.h"
+
+1467348710 c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 5 stacks and queues\distribution center\clients.h
+	<iostream>
+	<iomanip>
+
+1467253127 source:c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 5 stacks and queues\distribution center\drivers.cpp
+	"drivers.h"
+
+1467331156 c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 5 stacks and queues\distribution center\drivers.h
+	<iostream>
+	<iomanip>
+
+1467166237 source:c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 5 stacks and queues\distribution center\idgen.cpp
+	"idgen.h"
+
+1467348910 source:c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 5 stacks and queues\distribution center\main.cpp
+	"drivers.h"
+	"stacks.h"
+
+1467342930 c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 5 stacks and queues\distribution center\stacks.h
+	"queues.h"
+
+1467349105 c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 5 stacks and queues\distribution center\queues.h
+	"clients.h"
+
+1467076606 source:c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 5 stacks and queues\distribution center\stacks.cpp
+
+1467166224 c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 5 stacks and queues\distribution center\idgen.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1467340014 source:c:\users\edwin davinic\documents\school\data structures and advanced programming csc-214-01\week 5 stacks and queues\distribution center\queues.cpp
+	"queues.h"
+
